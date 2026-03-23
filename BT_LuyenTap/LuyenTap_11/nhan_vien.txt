@@ -1,0 +1,4 @@
+THÔNG TIN NHÂN VIÊN
+ID  : 8582365
+Tên : James
+Tuổi: 18
